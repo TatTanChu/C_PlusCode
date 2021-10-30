@@ -33,14 +33,15 @@ int main()
 
     cout << endl;
 
-    int dem = 0;                //Đóng vai trò là biến khai báo số phần tử là số chính phương trong mảng :
+    int dem = 0;                //Đóng vai trò là biến khai báo số phần tử là số chính phương trong mảng
 
     //B5 : Thực thi bài toán : 
-        //Chạy vòng lặp lớn để bắt đầu xét từng phần tử trong mảng đóng vai trò là số bị chia xem có phải số chính phương hay không :
+        //Chạy vòng lặp lớn để bắt đầu xét từng phần tử trong mảng xem có phải số chính phương hay không
         for(int i = 0; i < n ; i++){        
-            //Vòng lặp nhỏ đóng vai trò là số chia để chia các phần tử trong vòng lặp lớn :
+            //Vòng lặp nhỏ đóng vai trò là số số bình phương để xét từng phần tử trong vòng lặp lớn
             for(int j = 1; j <= a[i]; j++)
             {
+                //Nếu số "j" bình phương bằng với giá trị của phần tử a[i] -> a[i] là số chính phương
                 if(j * j == a[i])
                 {
                     dem = dem + 1;
