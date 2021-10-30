@@ -1,0 +1,42 @@
+#MỘT SỐ DẠNG BÀI TẬP KHÁC LIÊN QUAN ĐẾN MẢNG 1 CHIỀU: 
+1. Tổng các phần tử của dãy.
+2. Số lượng các số hạng dương và tổng của các số hạng dương.
+3. Số lượng các số hạng âm và tổng của các số hạng âm.
+4. Trung bình cộng của cả dãy. Trung bình cộng các phần tử dương của mảng. Trung bình cộng các phần tử âm của mảng.
+5. Chỉ số của số hạng dương đầu tiên của dãy.
+6. Chỉ số của số hạng âm đầu tiên của dãy.
+7. Chỉ số của số hạng dương cuối cùng của dãy.
+8. Chỉ số của số hạng âm cuối cùng của dãy.
+9. Số hạng lớn nhất của dãy và chỉ số của nó.
+10. Số hạng nhỏ nhất của dãy và chỉ số của nó.
+11. Số hạng âm lớn nhất của dãy và chỉ số của nó.
+12. Số hạng dương nhỏ nhất của dãy và chỉ số của nó.
+13. Giá trị lớn thứ nhì của dãy và các chỉ số của các số hạng đạt giá trị lớn nhì.
+14. Giá trị nhỏ thứ nhì của dãy và các chỉ số của các số hạng đạt giá trị nhỏ nhì.
+15. Số lượng các số dương liên tiếp nhiều nhất.
+16. Số lượng các số hạng dương liên tiếp có tổng lớn nhất.
+17. Số lượng các số hạng âm liên tiếp nhiều nhất.
+18. Số lượng các số hạng âm liên tiếp có tổng lớn nhất.
+19. Số lượng các số hạng liên tiếp đan dấu nhiều nhất ( dãy số hạng liên tiếp được gọi là đan dấu nếu tích hai số liên tiếp âm ).
+20. Số lượng các phần tử không tăng nhiều nhất.
+21. Số lượng các phần tử giảm nhiều nhất.
+22. Số lượng các phần tử tăng nhiều nhất.
+23. Đoạn con dương liên tiếp có nhiều các số hạng  nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+24. Đoạn con gồm nhiều nhất các số hạng liên tiếp của dãy lập thành một cấp số cộng. nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+25. Đoạn con có các số hạng dương liên tiếp có tổng lớn nhất. nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+26. Đoạn con có các số hạng âm liên tiếp nhiều nhất. nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+27. Đoạn con có số hạng âm liên tiếp có tổng lớn nhất. nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+28. Đoạn con có các số hạng liên tiếp đan dấu nhiều nhất nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+29. Đoạn con có các phần tử không tăng nhiều nhất. nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+30. Đoạn con có các phần tử giảm nhiều nhất. nhất (nếu có nhiều đoạn con thoả mãn thì  đọc ra màn hình : số đoạn con thoả mãn và các đoạn con đó )
+31. Số lượng các phần tử bằng giá trị X ( nguyên ) cho trước.
+32. Số lượng các phần tử khác giá trị X ( nguyên ) cho trước.
+33. Số lượng các phần tử >= giá trị X ( nguyên ) cho trước.
+34. Chuyển các số hạng dương của mảng lên đầu mảng và in mảng ra màn hình.
+35. Tìm số phần tử là dương và là số nguyên tố của mảng và vị trí của nó trong mảng
+37. Sắp xếp tăng dần mảng đã cho (a[i]<=a[i+1] )
+38. Sắp xếp giảm  dần mảng đã cho (a[i]>=a[i+1] )
+39. Chèn một số nguyên m (m nhập vào từ bàn phím ) vào cuối dãy
+40. Chèn một số nguyên m (m nhập vào từ bàn phím ) vào  đầu dãy
+42. Chèn một số nguyên m ( m nhập vào từ bàn phím ) vào vị trí k .
+43. Chèn một số nguyên m ( m  nhập vào từ bàn phím ) vào vị trí thích hợp 
